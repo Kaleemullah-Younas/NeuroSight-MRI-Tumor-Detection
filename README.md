@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/Streamlit-App-red?logo=streamlit" />
   <img src="https://img.shields.io/badge/TensorFlow-Keras-orange?logo=tensorflow" />
   <img src="https://img.shields.io/badge/Python-3.9%2B-green?logo=python" />
-  <img src="https://img.shields.io/badge/License-MIT-black" />
 </p>
 
 NeuroSight is a simple Streamlit app that loads a TensorFlow/Keras `.h5` binary classifier to predict whether an axial brain MRI image contains a tumor.
@@ -60,7 +59,3 @@ requirements.txt            # Python dependencies
 bg.png                      # Background image
 models/braintumor_binary.h5  # Your model (not included)
 ```
-
-## Acknowledgements
-
-- Built with [Streamlit](https://streamlit.io/) and [TensorFlow/Keras](https://www.tensorflow.org/)
